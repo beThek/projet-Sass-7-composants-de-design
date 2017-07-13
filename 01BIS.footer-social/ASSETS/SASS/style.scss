@@ -1,0 +1,33 @@
+body{
+    background-color: lightgrey;
+}
+.container{
+    background-color: #F9F3E9;
+    display: flex;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+}
+.copyright{
+    width: 100%;
+    text-align: left;
+    h1{
+        margin-left: 35px;
+
+    }
+}
+.nav-icon{
+    width: 100%;
+    text-align: right;
+    ul{
+        margin-right: 15px;
+    }
+    li{
+        display: inline;
+        margin-right: 10px;
+    }
+    a{
+        margin-right: 10px;
+        color: inherit;
+    }
+}
