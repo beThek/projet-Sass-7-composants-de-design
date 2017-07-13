@@ -1,0 +1,32 @@
+.container {
+  background-color: #F9F3E9;
+  height: 50px;
+  box-sizing: border-box; }
+
+.copyright {
+  width: 50%;
+  padding-top: 16px;
+  float: left; }
+  .copyright p {
+    outline: 1px solid red; }
+  .copyright h1 {
+    margin-left: 20px; }
+
+.nav-icon {
+  padding-top: 10px;
+  width: 50%;
+  float: right; }
+  .nav-icon ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-left: 400px; }
+  .nav-icon li {
+    display: inline-block; }
+  .nav-icon a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+    color: inherit; }
+
+/*# sourceMappingURL=style.css.map */

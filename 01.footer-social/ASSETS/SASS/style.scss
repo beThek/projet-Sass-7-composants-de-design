@@ -1,0 +1,56 @@
+
+//$equ: 100% / 1;
+body {
+//    background: whitesmoke;
+}
+.container {
+    background-color: #F9F3E9;
+    //width: $equ;
+        height: 50px;
+
+    //border: 1px solid #af0ae9;
+    box-sizing: border-box;
+    //float: left;
+}
+
+.copyright {
+    width: 50%;
+    padding-top: 16px;
+    float: left;
+
+    p {
+        outline: 1px solid red;
+        //text-align: center;
+        //width: $equP;
+        //height: 20px;
+
+    }
+    h1{
+        margin-left: 20px;
+    }
+
+
+}
+.nav-icon {
+        padding-top: 10px;
+        width: 50%;
+        float: right;
+
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        margin-left: 400px;
+
+    }
+
+    li {display: inline-block;}
+
+    a {
+        display: block;
+        padding: 6px 12px;
+        text-decoration: none;
+        color: inherit;
+    }
+}
