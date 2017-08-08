@@ -1,0 +1,73 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #7c7c7d;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.backgroundwhite {
+    background-color: white;
+    border: 1px solid black;
+    max-width: 1100px;
+    min-width: 500px;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
+
+
+.header {
+    display: flex;
+    margin : 0 auto;
+    max-width: 1100px;
+    min-width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    h1 {
+        margin-left: 10px;
+    }
+
+}
+
+.plus {
+    margin-right: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1100px;
+    min-width: 500px;
+    margin: auto;
+
+}
+
+.main {
+    width: 200px;
+}
+
+
+
+.stars {
+    color: #2acbbf;
+}
+
+.prix {
+    color: black;
+    font-weight: bold;
+}
+
+.légende {
+    font-size: 16px;
+
+}
+
+.rating {
+    font-size: 15px;
+    margin-top: 5px;
+}
