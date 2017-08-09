@@ -1,0 +1,30 @@
+body {
+  background-image: url(img/hero-image.jpg);
+  background-size: cover;
+  font-family: 'Saira Condensed', sans-serif; }
+
+.header {
+  padding: 110px;
+  margin-left: 25px;
+  width: 300px;
+  font-size: 14px; }
+  .header p {
+    width: 270px;
+    margin-top: -10px; }
+  .header h1 {
+    font-size: 36px;
+    width: 200px;
+    letter-spacing: 2px;
+    line-height: 45px; }
+
+.actioncall {
+  background-color: #E3B74C;
+  width: 150px;
+  height: 40px;
+  margin-left: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1.5px; }
+
+/*# sourceMappingURL=style.css.map */
